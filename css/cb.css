@@ -1,0 +1,93 @@
+/* Custom styles for www.cbvii.com - written by CB */
+
+.left {
+position: absolute;
+top:45px;
+left: 2%;
+}
+
+.right {
+position: absolute;
+top:45px;
+right: 2%;
+}
+
+.logo {
+margin:0 auto;
+text-align: center;
+width: 100px;
+margin-bottom: 20px;
+}
+
+img.icons {
+float: left;
+margin-right: 15px;
+border-top: 2px solid #ccc;
+border-bottom: 2px solid #ccc;
+}
+
+img.icons:hover {
+border-top: 2px solid #7DD4B5;
+border-bottom: 2px solid #7DD4B5;
+}
+
+span.imagetext{
+position:absolute;
+color: #fff;
+font-weight: 400;
+font-size: 18px;
+bottom: 45%;
+letter-spacing: 1px;
+width: 100%;
+text-align: center;
+}
+
+span.logotext{
+color: #000;
+font-weight: 600;
+font-size: 25px;
+letter-spacing: 2px;
+text-align: center;
+}
+
+span.imagetextsmall{
+position:absolute;
+color: #fff;
+font-weight: 400;
+font-size: 16px;
+bottom: 45%;
+letter-spacing: 1px;
+width: 100%;
+text-align: center;
+}
+
+
+p.imageinfo {
+position: relative; 
+width: inherit;
+}
+
+p.imageinfo:hover {
+opacity: 0.9;
+}
+
+a#current {
+color: #7DD4B5;
+}
+
+a.toplink:hover {
+color: #7DD4B5;
+}
+
+span.exposuretitle {
+font-weight: 700;
+text-transform: uppercase;
+}
+
+ul.skills {
+padding: 15px 15px 15px 40px;
+color: #fff;
+list-style-type:disc;
+font-size: 13px;
+}
+
